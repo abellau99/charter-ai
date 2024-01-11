@@ -1,6 +1,0 @@
-[build.environment]
-  FLUENTFFMPEG_COV = ""
-
-[functions]
-  external_node_modules = ["@ffmpeg-installer/ffmpeg", "@types/fluent-ffmpeg", "fluent-ffmpeg"]
-

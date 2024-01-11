@@ -1,2 +1,0 @@
-# scp -r --exclude={node_modules,.next} ./ aayush@legion:/media/aayush/SSD_Work/Deployments/tweetcast/
-rsync -av --exclude={node_modules,.next,outputs,.env,.env.local} ./ aayush@legion:/media/aayush/SSD_Work/Deployments/tweetcast/
